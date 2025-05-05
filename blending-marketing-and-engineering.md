@@ -12,7 +12,7 @@ Whether I'm writing for developers or onboarding new users, my goal is the same:
 
 The more I code, the better I write. The more I write, the clearer I build.
 
----
 
-*Written by Kaya Woods — a software engineer with a background in growth marketing, technical storytelling, and AI workflows.*
+
+
 
