@@ -20,6 +20,7 @@ Real examples and takeaways for writing prompts that actually work — drawn fro
 ---
 
 **More from me**  
+
 🔗 [GitHub](https://github.com/kayawoods)  
 ✉️ [Email me](mailto:kayanevada@gmail.com)  
 
