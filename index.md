@@ -16,3 +16,9 @@ Hands-on tips and examples for writing clearer, more powerful AI prompts — fro
 
 *Built with 💻 GitHub Pages using Markdown.*
 
+---
+
+**More from me**  
+🔗 [GitHub](https://github.com/kayawoods)  
+✉️ [Email me](mailto:kayanevada@gmail.com)  
+
